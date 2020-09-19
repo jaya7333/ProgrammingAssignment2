@@ -1,4 +1,4 @@
-##x is byefault 2*2 matrix
+##x is default 2*2 matrix
 
 makeCacheMatrix <- function(x = matrix(1:4,2,2)){
   inv <-NULL
